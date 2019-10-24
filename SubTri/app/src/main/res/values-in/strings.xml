@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubTri</string>
+    <string name="title_activity_detail_view">DetailView</string>
+
+    <!-- Locale Strings -->
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="detail">Detil Film</string>
+    <string name="rating">Nilai :</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="overview">Sinopsis</string>
+    <!-- end of Locale Strings-->
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SubTwo</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="title">Title</string>
+    <string name="date">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="description">Description</string>
+    <string name="length">Length</string>
+    <string name="change_language_settings">Change language settings</string>
+    <string name="status">Status</string>
+</resources>

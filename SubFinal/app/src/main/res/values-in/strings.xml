@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubFinal</string>
+
+    <!-- Locale Strings -->
+    <string name="title_movie">Film</string>
+    <string name="title_show">Serial TV</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+    <string name="detail">Detil Film</string>
+    <string name="rating">Nilai :</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="overview">Sinopsis</string>
+    <string name="iv_movie_description">Sampul Film</string>
+    <string name="iv_show_description">Sampul Serial TV</string>
+    <string name="iv_detail_description">Sampul Halaman Detail</string>
+    <string name="search">Cari</string>
+    <string name="reset_list">Atur Ulang List</string>
+
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_text">No Data</string>
+    <string name="daily_reminder_message">Hey! Check your new movie release here</string>
+    <string name="key_pref_release">pref_release</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="summary_pref_release">Reminder showing the movie that released today</string>
+    <string name="summary_pref_daily">Reminder for return to app</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="key_pref_daily">pref_daily</string>
+    <string name="reminder_settings">Pengaturan Pengingat</string>
+    <string name="daily_reminder_cancel">Daily Reminder dibatalkan</string>
+    <string name="release_reminder_cancel">Release Reminder dibatalkan</string>
+    <string name="release_reminder_set">Release Reminder diaktifkan</string>
+    <string name="daily_reminder_set">Daily Reminder diaktifkan</string>
+    <!-- end of Locale Strings-->
+</resources>

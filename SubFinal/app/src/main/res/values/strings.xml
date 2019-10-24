@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SubFinal</string>
+
+    <!-- Locale Strings -->
+    <string name="title_movie">Movie</string>
+    <string name="title_show">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="change_language_settings">Language settings</string>
+    <string name="detail">Detail</string>
+    <string name="rating">Rating :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="overview">Overview</string>
+    <string name="iv_movie_description">Movie Image Cover</string>
+    <string name="iv_show_description">TV Show Image Cover</string>
+    <string name="iv_detail_description">Detail View Image Cover</string>
+    <string name="search">Search</string>
+    <string name="reset_list">Reset List</string>
+
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_text">No Data</string>
+    <string name="daily_reminder_message">Hey! Check your new movie release here</string>
+    <string name="key_pref_release">pref_release</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="summary_pref_release">Reminder showing the movie that released today</string>
+    <string name="summary_pref_daily">Reminder for return to app</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="key_pref_daily">pref_daily</string>
+    <string name="reminder_settings">Reminder settings</string>
+    <string name="daily_reminder_cancel">Daily Reminder cancelled</string>
+    <string name="release_reminder_cancel">Release Reminder cancelled</string>
+    <string name="release_reminder_set">Release Reminder set up</string>
+    <string name="daily_reminder_set">Daily Reminder set up</string>
+    <!-- end of Locale Strings-->
+</resources>

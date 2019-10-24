@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubFour</string>
+
+    <!-- Locale Strings -->
+    <string name="title_movie">Film</string>
+    <string name="title_show">Serial TV</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="detail">Detil Film</string>
+    <string name="rating">Nilai :</string>
+    <string name="release_date">Tanggal Rilis :</string>
+    <string name="overview">Sinopsis</string>
+    <string name="iv_movie_description">Sampul Film</string>
+    <string name="iv_show_description">Sampul Serial TV</string>
+    <string name="iv_detail_description">Sampul Halaman Detail</string>
+    <!-- end of Locale Strings-->
+</resources>

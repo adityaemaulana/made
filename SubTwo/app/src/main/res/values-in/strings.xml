@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubTwo</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Serial TV</string>
+    <string name="title">Judul</string>
+    <string name="date">Tanggal Rilis</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Nilai</string>
+    <string name="description">Deskripsi</string>
+    <string name="length">Durasi</string>
+    <string name="change_language_settings">Ubah pengaturan bahasa</string>
+    <string name="status">Status</string>
+</resources>

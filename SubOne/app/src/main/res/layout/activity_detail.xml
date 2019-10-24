@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/iv_detail_photo"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:scaleType="fitXY" />
+
+            <TextView
+                android:id="@+id/tv_detail_label_judul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:text="@string/judul"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_detail_judul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_label_judul"
+                android:layout_marginBottom="8dp"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:textColor="@android:color/black"
+                android:textSize="14sp"
+                tools:text="value" />
+
+            <TextView
+                android:id="@+id/tv_detail_label_genre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_judul"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:text="Genre"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_detail_genre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_label_genre"
+                android:layout_marginBottom="8dp"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:textColor="@android:color/black"
+                android:textSize="14sp"
+                tools:text="value" />
+
+            <TextView
+                android:id="@+id/tv_detail_label_durasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_genre"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:text="Durasi"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_detail_durasi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_label_durasi"
+                android:layout_marginBottom="8dp"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:textColor="@android:color/black"
+                android:textSize="14sp"
+                tools:text="value" />
+
+            <TextView
+                android:id="@+id/tv_detail_label_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_durasi"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:text="Rating"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_detail_rating"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_detail_label_rating"
+                android:layout_toRightOf="@id/iv_detail_photo"
+                android:textColor="@android:color/black"
+                android:textSize="16sp"
+                tools:text="value" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="8dp"
+            android:text="Sinopsis"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_detail_deskripsi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/black"
+            android:textSize="14sp"
+            tools:text="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" />
+    </LinearLayout>
+
+</ScrollView>
