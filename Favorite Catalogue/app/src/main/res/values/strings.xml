@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Favorite Catalogue</string>
+
+    <!-- Locale Strings -->
+    <string name="title_movie">Movie</string>
+    <string name="title_show">TV Show</string>
+    <string name="change_language_settings">Language settings</string>
+    <string name="detail">Detail</string>
+    <string name="rating">Rating :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="overview">Overview</string>
+    <string name="iv_movie_description">Movie Image Cover</string>
+    <string name="iv_show_description">TV Show Image Cover</string>
+    <string name="iv_detail_description">Detail View Image Cover</string>
+    <!-- end of Locale Strings-->
+</resources>

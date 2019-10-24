@@ -7,5 +7,6 @@ Layouting and Navigation
 Learn networking (consume API)
 ## SubFour<br>
 Database using SQLite
-## SubFinal<br>
-Content Provider, Services, Widget, and Searching 
+## SubFinal + Favorite Catalogue<br>
+SubFinal : Content Provider, Services, Widget, and Searching<br>
+Favorite Catalogue : Syncing movie database with Content Provider
